@@ -100,6 +100,6 @@ GET  | api/v1/property-advert/<:property-id>  | View a specific property advert 
 
 ## Author
 
-* [Nwodo Christian](https://github.com/chrismeeky)
+* [Victor Godwin](https://github.com/cstudio7)
 
 
