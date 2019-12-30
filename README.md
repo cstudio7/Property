@@ -3,7 +3,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/b1ac439f44df20327933/maintainability)](https://codeclimate.com/github/chrismeeky/PropertyPro/maintainability)
 # PropertyProLite
 
-To visit Property Pro Lite , Click this link>> https://chrismeeky.github.io/PropertyPro/UI
+To visit Property Pro Lite , Click this link>> https://cstudio7.github.io/Property/UI/
 
 
 Property pro Lite is a website where users can upload users can advertise their property for sale. Users can lookup property advertised for sale or place their own property for sale.
@@ -23,7 +23,7 @@ Property pro Lite is a website where users can upload users can advertise their 
 
 ### GitHub Pages link for UI Frontend
 
-[PropertyPro-lite/UI link](https://chrismeeky.github.io/PropertyPro/UI/)
+[PropertyPro-lite/UI link](https://cstudio7.github.io/Property/UI/)
 
 ### REST API Docs
 
@@ -52,7 +52,7 @@ Ensure that you have nodejs and npm installed in your computer
 a. Clone this repository into your named folder
 
 ```bash
-git clone -b develop git@github.com:chrismeeky/PropertyPro.git .
+git clone -b develop https://github.com/cstudio7/Property.git
 git status
 ```
 
@@ -100,6 +100,6 @@ GET  | api/v1/property-advert/<:property-id>  | View a specific property advert 
 
 ## Author
 
-* [Victor Godwin](https://github.com/cstudio7)
+* [Victor Godwin](https://github.com/cstudio7/Property/tree/master)
 
 
